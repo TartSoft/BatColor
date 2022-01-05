@@ -1,5 +1,6 @@
 # BatColor
 Command-Line Utility for Adding Colors to Batch Files. Made using VS and C++.
+- This project is disclaimer. find the orginal project at [CodeProject](https://www.codeproject.com/Articles/17033/Add-Colors-to-Batch-Files)
 
 Image:
 
