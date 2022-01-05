@@ -10,33 +10,33 @@ Image:
 
 Manual:
 ----
-- {XX}: colors coded as two hexadecimal digits. E.g., {0A} light green
-- {color}: color information as understandable text. E.g., {light red on black}
-- {\n \t}: New line character - Tab character.
-- {\u0000}: Unicode character code.
-- {{: escape character '{'.
-- {#}: restore initial colors.
+- `{XX}`: colors coded as two hexadecimal digits. E.g., {0A} light green color
+- `{\n \t}`: color information as understandable text. E.g., {light red on black}
+- `{\n \t}`: New line character - Tab character.
+- `{\u0000}`: Unicode character code.
+- `{{`: escape character '{'.
+- `{#}`: restore initial colors.
 
 Available Colors:
 ----
 Available colors:
 
-- 0 = black	   
-- 1 = navy	     
-- 2 = green	    
-- 3 = teal	    
-- 4 = maroon	  
-- 5 = purple	   
-- 6 = olive	     
-- 7 = silver	   
-- 8 = gray	     
-- 9 = blue
-- A = lime
-- B = aqua
-- C = red
-- D = fuchsia
-- E = yellow
-- F = white
+- `0` = black	   
+- `1` = navy	     
+- `2` = green	    
+- `3` = teal	    
+- `4` = maroon	  
+- `5` = purple	   
+- `6` = olive	     
+- `7` = silver	   
+- `8` = gray	     
+- `9` = blue
+- `A` = lime
+- `B` = aqua
+- `C` = red
+- `D` = fuchsia
+- `E` = yellow
+- `F` = white
 
 Sample:
 ----
