@@ -1,9 +1,5 @@
-// cecho.cpp by thomas_polaert@yahoo.fr
-//
-// This source code is provided "as-is" under The Code Project Open License (CPOL)
-// http://www.codeproject.com/info/cpol10.aspx
-// 
-#define WIN32_LEAN_AND_MEAN		// Exclude rarely-used stuff from Windows headers
+
+#define WIN32_LEAN_AND_MEAN		
 #include <windows.h>
 #include <stdlib.h>
 #include <stdio.h>
