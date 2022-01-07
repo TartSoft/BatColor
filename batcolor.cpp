@@ -183,7 +183,7 @@ int wmain(int argc, wchar_t* argv[])
 			"\tcecho v2.0\n"
 			"\n"
 			"echo command with colors support\n" 
-			"by thomas_polaert@yahoo.fr\n"
+			"by blackvaultufofootage@gmail.com\n"
 			);
 		SetConsoleTextAttribute(hConsole, defaultTxtAttr);
 
